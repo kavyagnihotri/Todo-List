@@ -10,3 +10,5 @@ Visit "/work" for an independent list.
 On checking the checkbox only strikes-through appears.
 
 If the server is restarted the list is deleted.
+
+This is deployed at https://nameless-ravine-23886.herokuapp.com/
