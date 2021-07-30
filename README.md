@@ -3,7 +3,7 @@ TodoList v1.0
 
 Run "npm install" to install the necessary packages.
 
-"node app.js" will start the server at Port 3000.
+Run "node app.js" to start the server at Port 3000.
 
 Visit "/work" for an independent list.
 
