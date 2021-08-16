@@ -12,3 +12,15 @@ On checking the checkbox only strikes-through appears.
 If the server is restarted the list is deleted.
 
 This is deployed at https://nameless-ravine-23886.herokuapp.com/
+
+TodoList v2.0
+
+Updates:
+
+1. If the server is restarted the list is retained.
+
+2. On checking the checkbox, item gets deleted. 
+
+3. Visit "/<anything>" for an independent list.
+
+This is deployed at https://hidden-eyrie-71520.herokuapp.com/
