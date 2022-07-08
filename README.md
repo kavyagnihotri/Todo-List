@@ -24,3 +24,5 @@ Updates:
 3. Visit "/<anything>" for an independent list.
 
 This is deployed at https://hidden-eyrie-71520.herokuapp.com/
+
+[This was made as a part of Udemy course (The Complete 2021 Web Developement Bootcamp)]
